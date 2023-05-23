@@ -17,3 +17,24 @@ Furthermore, this client does not require any registration or authentication pro
 The versatility of this client extends globally, as it can be deployed on a robust server infrastructure to cater to users from all countries. With the right deployment strategy and infrastructure in place, users worldwide can utilize this client to interact with ChatGPT.
 
 It's important to note that while this client is intended for training and experimentation purposes, it's crucial to consider real-world security measures, adhere to legal requirements, and address potential scalability challenges when deploying in a production environment.
+
+
+## About MatthewGPT
+
+To run MatthewGPT first you most to run php web server or run app in any web server like apache or nginx
+if you dont have apache or nginx the easiest way is run this command
+```
+php artisan serve
+```
+
+than you should run this command to compile vue.js to js
+```
+npm run dev
+```
+
+and copy .env.example and rename it to .env file and fill with your api key
+```
+OPEN_AI_SECRET_KEY=
+```
+
+and enjoy from this **simple** app ;)
