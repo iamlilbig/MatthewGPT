@@ -19,7 +19,7 @@ The versatility of this client extends globally, as it can be deployed on a robu
 It's important to note that while this client is intended for training and experimentation purposes, it's crucial to consider real-world security measures, adhere to legal requirements, and address potential scalability challenges when deploying in a production environment.
 
 
-## About MatthewGPT
+## How to run MatthewGPT
 
 To run MatthewGPT first you most to run php web server or run app in any web server like apache or nginx
 if you dont have apache or nginx the easiest way is run this command
